@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🔭 I’m currently Studing at **SHERIYANSH CODING SCHOOL**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit122022&label=Profile%20views&color=0e75b6&style=flat" alt="adit122022" /> </p>
 
