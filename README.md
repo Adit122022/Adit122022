@@ -21,8 +21,10 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **CodeCollab** | Real-time collaborative IDE | Next.js, Firebase, Monaco | [Live](https://github.com/Adit122022/CODE_REVIEWER) • [Repo](https://github.com/Adit122022/CODE_REVIEWER) |
-| **Anoova** | real-time chat application | MERN Stack, Tailwind | [Try It](https://annova-chat-app.onrender.com/) • [GitHub](https://github.com/Adit122022/ANNOVA_CHAT_APP) |
+| **CodeCollab** | Real-time collaborative IDE with code review features | Next.js, Firebase, Monaco, Tailwind | [Live](https://github.com/Adit122022/CODE_REVIEWER) • [Repo](https://github.com/Adit122022/CODE_REVIEWER) |
+| **Anoova** | Real-time chat application with modern UI | React, Node.js, MongoDB, Socket.io | [Try It](https://annova-chat-app.onrender.com/) • [GitHub](https://github.com/Adit122022/ANNOVA_CHAT_APP) |
+| **KliMate** | Weather application with TypeScript integration | React, TypeScript, Tailwind, Vite | [Explore](https://github.com/Adit122022/KliMate) • [Code](https://github.com/Adit122022/KliMate) |
+| **TaskMaster** | Todo application with drag-n-drop functionality | React, Redux, Firebase | [Demo](#) • [Repo](https://github.com/Adit122022/TaskMaster) |
 
 </div>
 
@@ -30,11 +32,11 @@
 
 <div align="center">
   
-[![WeatherGenius Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-*WeatherGenius AI Prediction Demo*
+[![Anoova Demo](https://ik.imagekit.io/adit122022/Github%20projects/Annova.png?updatedAt=1746824567931)](https://github.com/Adit122022/ANNOVA_CHAT_APP)
+*Anoova Chat App Demo - Real-time messaging features*
 
-[![CodeCollab Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
-*CodeCollab Real-time Features*
+[![CodeCollab Walkthrough](https://ik.imagekit.io/adit122022/Github%20projects/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail.png?updatedAt=1746824523478)](https://github.com/Adit122022/CODE_REVIEWER) 
+*CodeCollab - Collaborative coding environment*
 
 </div>
 
@@ -42,7 +44,7 @@
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,redux,ts,aws,docker,git,figma,vscode&perline=6)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,redux,ts,aws,docker,git,figma,vscode,firebase,socketio&perline=7)
 
 </div>
 
@@ -60,16 +62,17 @@
 
 ## 📝 Latest Blog Posts
 
-- [5 React Performance Tricks You Didn't Know](#)
-- [Building Scalable Microservices with Node.js](#)
-- [From Zero to Hero: My Full Stack Journey](#)
+- [Building Real-time Apps with Socket.io](#)
+- [From JavaScript to TypeScript: My Migration Journey](#)
+- [The Power of Collaborative Coding Environments](#)
 
 ## 🎯 Goals for 2024
 
-- [x] Master TypeScript
-- [ ] Learn AWS Certified Solutions Architect
-- [ ] Contribute to 10+ Open Source Projects
-- [ ] Launch SaaS Product
+- [x] Master TypeScript (evident in KliMate project)
+- [ ] Complete AWS Certification
+- [ ] Build 5 more full-stack projects
+- [ ] Contribute to popular open-source projects
+- [ ] Develop a SaaS product
 
 ## 💬 Let's Connect
 
