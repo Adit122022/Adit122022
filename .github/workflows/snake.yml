@@ -11,22 +11,22 @@ jobs:
     name: Generate GitHub Contribution Snake
 
     steps:
-      - name: Generate the snake.svg file
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: adit122022
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake.svg
 
-      - name: Setup Git
+      - name: Commit and push
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-
-      - name: Commit and Push the snake svg to main branch
-        run: |
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update GitHub Contribution Snake"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
