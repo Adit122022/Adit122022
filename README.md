@@ -95,6 +95,7 @@
 <div align="center">
   
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/adit122022/adit122022/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://adit122022.github.io/output/github-contribution-grid-snake.svg)
+
 
 </div>
