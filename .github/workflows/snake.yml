@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Generate Snake Animation
+  generate:
     runs-on: ubuntu-latest
+    name: Generate GitHub Contribution Snake
 
     steps:
       - name: Generate the snake.svg file
@@ -23,10 +23,10 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and Push the snake svg to main branch
+        run: |
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
