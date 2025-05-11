@@ -90,6 +90,7 @@
 
 <div align="center">
   
-![Snake Animation](https://github.com/adit122022/adit122022/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/adit122022/adit122022/blob/output/github-contribution-grid-snake.svg)
 
 </div>
