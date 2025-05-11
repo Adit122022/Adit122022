@@ -83,9 +83,13 @@
   <a href="https://leetcode.com/adity122022">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="#">
+  <a href="https://portfolio-1-rchm.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/sharmaji742595" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
 </p>
 
 <div align="center">
