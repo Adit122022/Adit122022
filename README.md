@@ -21,22 +21,19 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **CodeCollab** | Real-time collaborative IDE with code review features | Next.js, Firebase, Monaco, Tailwind | [Live](https://github.com/Adit122022/CODE_REVIEWER) • [Repo](https://github.com/Adit122022/CODE_REVIEWER) |
+| **CodeCollab** | Real-time collaborative IDE with code review features | React.js, MongoDb,Express, Monaco, Tailwind | [Live](https://github.com/Adit122022/CODE_REVIEWER) • [Repo](https://github.com/Adit122022/CODE_REVIEWER) |
 | **Anoova** | Real-time chat application with modern UI | React, Node.js, MongoDB, Socket.io | [Try It](https://annova-chat-app.onrender.com/) • [GitHub](https://github.com/Adit122022/ANNOVA_CHAT_APP) |
 | **KliMate** | Weather application with TypeScript integration | React, TypeScript, Tailwind, Vite | [Explore](https://github.com/Adit122022/KliMate) • [Code](https://github.com/Adit122022/KliMate) |
-| **TaskMaster** | Todo application with drag-n-drop functionality | React, Redux, Firebase | [Demo](#) • [Repo](https://github.com/Adit122022/TaskMaster) |
 
 </div>
 
-## 🎥 Project Showcase
+## 🎥 Just Me
 
 <div align="center">
-  
-[![Anoova Demo](https://ik.imagekit.io/adit122022/Github%20projects/Annova.png?updatedAt=1746824567931)](https://github.com/Adit122022/ANNOVA_CHAT_APP)
-*Anoova Chat App Demo - Real-time messaging features*
 
-[![CodeCollab Walkthrough](https://ik.imagekit.io/adit122022/Github%20projects/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail.png?updatedAt=1746824523478)](https://github.com/Adit122022/CODE_REVIEWER) 
-*CodeCollab - Collaborative coding environment*
+
+![CodeCollab Walkthrough](https://i.pinimg.com/736x/c0/23/e3/c023e3e316de791d426572d53067a9ec.jpg)
+
 
 </div>
 
