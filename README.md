@@ -88,9 +88,9 @@
 </p>
 
 <div align="center">
-  
-### 🐍 Contribution Snake
-![Snake animation](https://adit122022.github.io/output/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Adit122022/Adit122022/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
