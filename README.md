@@ -15,24 +15,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=adit122022&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=4" alt="GitHub Trophies" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **CodeCollab** | Real-time collaborative IDE with code review features | React.js, MongoDb,Express, Monaco, Tailwind | [Live](https://github.com/Adit122022/CODE_REVIEWER) • [Repo](https://github.com/Adit122022/CODE_REVIEWER) |
-| **Anoova** | Real-time chat application with modern UI | React, Node.js, MongoDB, Socket.io | [Try It](https://annova-chat-app.onrender.com/) • [GitHub](https://github.com/Adit122022/ANNOVA_CHAT_APP) |
-| **KliMate** | Weather application with TypeScript integration | React, TypeScript, Tailwind, Vite | [Explore](https://github.com/Adit122022/KliMate) • [Code](https://github.com/Adit122022/KliMate) |
-
-</div>
 
 ## 🎥 Just Me
 
 <div align="center">
 
+<div align="center">
+  <img src="https://i.pinimg.com/736x/c0/23/e3/c023e3e316de791d426572d53067a9ec.jpg" alt="Demo GIF" width="400" />
+</div>
 
-![CodeCollab Walkthrough](https://i.pinimg.com/736x/c0/23/e3/c023e3e316de791d426572d53067a9ec.jpg)
 
 
 </div>
@@ -57,11 +48,13 @@
 
 </div>
 
-## 📝 Latest Blog Posts
+## 😂 Daily Coding Meme
 
-- [Building Real-time Apps with Socket.io](#)
-- [From JavaScript to TypeScript: My Migration Journey](#)
-- [The Power of Collaborative Coding Environments](#)
+<div align="center">
+  <img src="https://cataas.com/cat/cute/says/Deploy+to+Production" alt="Coding Meme" width="400" />
+  <br/>
+  <i>“Just one more bug fix…”</i>
+</div>
 
 ## 🎯 Goals for 2024
 
