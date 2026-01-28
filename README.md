@@ -14,4 +14,5 @@ I work primarily with Node.js, Express, and MongoDB, and use React for frontend 
 - Writing clean, maintainable backend code
 - Improving API design and system understanding
 
+![Snake animation](https://github.com/Adit122022/Adit122022/blob/output/github-contribution-grid-snake.svg)
 
