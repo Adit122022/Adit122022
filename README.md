@@ -20,26 +20,41 @@ I specialize in building **production-grade backend systems** using Node.js, Exp
 ## 🚀 Featured Projects
 
 <br />
+<table>
 
-<div align="center">
+<tr>
 
-### 🛠️ CodeMitra 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge)](https://code-mitra-ad.vercel.app/)
-**Interactive Coding & Learning Platform**
+<td width="50%">
 
-[![CodeMitra Preview](https://api.microlink.io/?url=https://code-mitra-ad.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://code-mitra-ad.vercel.app/)
+<a href="https://code-mitra-ad.vercel.app/">
+    <img src="https://api.microlink.io/?url=https://code-mitra-ad.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="550px" alt="CodeMitra Preview" />
+
+<h3 align="center"> CodeMitra</h3>
+
+<p align="center">
+Interactive Coding Platform
+</p>
+
+</a>
+
+</td>
+
+<td width="50%" >
+<a href="https://bit-learn.vercel.app/">
+    <img src="https://api.microlink.io/?url=https://bit-learn.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="550px" alt="BitLearn Preview" />
+<h3 align="center"> BitLearn</h3>
+<p align="center">
+Modern Learning Platform
+</p>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 
-
----
-
-### 📚 BitLearn 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge)](https://bit-learn.vercel.app/)
-**Modern Web-Based Education & Resource Hub**
-
-[![BitLearn Preview](https://api.microlink.io/?url=https://bit-learn.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://bit-learn.vercel.app/)
-
-
-</div>
 
 ![Snake animation](https://github.com/Adit122022/Adit122022/blob/output/github-contribution-grid-snake.svg)
