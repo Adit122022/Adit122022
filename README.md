@@ -17,4 +17,29 @@ I specialize in building **production-grade backend systems** using Node.js, Exp
 - Writing maintainable, testable, and performance-oriented code  
 - Deepening system design, caching strategies, and distributed concepts  
 
+## 🚀 Featured Projects
+
+<br />
+
+<div align="center">
+
+### 🛠️ CodeMitra 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge)](https://code-mitra-ad.vercel.app/)
+**Interactive Coding & Learning Platform**
+
+[![CodeMitra Preview](https://api.microlink.io/?url=https://code-mitra-ad.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://code-mitra-ad.vercel.app/)
+
+
+
+---
+
+### 📚 BitLearn 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge)](https://bit-learn.vercel.app/)
+**Modern Web-Based Education & Resource Hub**
+
+[![BitLearn Preview](https://api.microlink.io/?url=https://bit-learn.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://bit-learn.vercel.app/)
+
+
+</div>
+
 ![Snake animation](https://github.com/Adit122022/Adit122022/blob/output/github-contribution-grid-snake.svg)
